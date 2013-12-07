@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-luatexko
 Version:	1.2
-Release:	5
+Release:	6
 Summary:	Typeset Korean with Lua(La)TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/generic/luatexko
