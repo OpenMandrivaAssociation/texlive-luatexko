@@ -1,12 +1,12 @@
-# revision 32740
+# revision 34018
 # category Package
 # catalog-ctan /macros/luatex/generic/luatexko
-# catalog-date 2014-01-20 15:14:34 +0100
+# catalog-date 2014-05-11 12:36:43 +0200
 # catalog-license lppl
-# catalog-version 1.4
+# catalog-version 1.5
 Name:		texlive-luatexko
-Version:	1.4
-Release:	2
+Version:	1.5
+Release:	1
 Summary:	Typeset Korean with Lua(La)TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/generic/luatexko
