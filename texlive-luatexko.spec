@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version 1.5
 Name:		texlive-luatexko
-Version:	1.18
+Version:	1.20
 Release:	1
 Summary:	Typeset Korean with Lua(La)TeX
 Group:		Publishing
