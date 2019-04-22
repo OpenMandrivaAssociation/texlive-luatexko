@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.5
 Name:		texlive-luatexko
-Version:	1.21
-Release:	2
+Version:	1.24
+Release:	1
 Summary:	Typeset Korean with Lua(La)TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/generic/luatexko
