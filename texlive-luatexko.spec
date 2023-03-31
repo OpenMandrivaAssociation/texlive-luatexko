@@ -1,6 +1,6 @@
 Name:		texlive-luatexko
 Version:	64893
-Release:	1
+Release:	2
 Summary:	Typeset Korean with Lua(La)TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/generic/luatexko
