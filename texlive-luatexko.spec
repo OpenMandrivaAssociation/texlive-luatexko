@@ -3,7 +3,7 @@ Version:	68243
 Release:	1
 Summary:	Typeset Korean with Lua(La)TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/luatex/generic/luatexko
+URL:		https://www.ctan.org/tex-archive/macros/luatex/generic/luatexko
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luatexko.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luatexko.doc.r%{version}.tar.xz
